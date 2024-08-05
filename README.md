@@ -57,9 +57,9 @@ In Frontend:
 
 ### Database
 1. Open Mongodb and set up a database and copy connection url string:
-2. open db.js :
+2. in the backend directory, open db.js :
     ```bash
-    cd backend\db.js
+    cd backend
     ```
 3. use mongoose.connect and paste your connection url string :
     ```bash
